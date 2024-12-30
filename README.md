@@ -1,0 +1,6 @@
+# NFT数字藏品nft藏品Nft app nft艺术品系统 nft
+
+APP下载:http://example.com/app/example.com;  <br>15555555555  123456 <br>后台: http://example.com; admin  admin888（演示版系统未上链未对接支付,正式版额可以上链对接支付）所有功能以演示站为准,购买前详细看好演示站<br>安卓/IOS Fltter混合原生开发，后端PHP开发，程序已经做过高并发处理，相当稳定首页-热门藏品-近期上新藏品-预售藏品藏品-创作者-收藏者-作者主页-链上信息-所属专辑-编号-钱包地址-链上表示-发布时间-作品介绍-交易记录-购买须知-分享<br>作者主页-全部作品-创作者-收藏者-作者主页-链上信息-所属专辑-编号-钱包地址-链上表示-发布时间-作品介绍-交易记录-购买须知-分享-藏品-盲盒<br>二级市场-首发-藏品详情-创作者-收藏者-作者主页-链上信息-所属专辑-编号-钱包地址-链上表示-发布时间-作品介绍-交易记录-购买须知-分享-转售<br>盲盒-邀请好友获得盲盒-购买盲盒我的-头像-实名信息-昵称-手机号-注册时间-简介-区块链地址-钱包-提现-买/卖/历史交易-创作者服务-邀请好友-我拥有的藏品/盲盒-我卖出的藏品/盲盒-售卖中的藏品/盲盒设置-收款账号-修改登陆密码-联系我们-关于我们-协议-帮助中心-版本号-退出。功能齐全，相当稳定，可以根据需求二次开发。项目方申请支付接口我们免费对接，项目方决定在哪个链铸造我们负责对接<br>下单前可以联系客服下载演示版APP，购买后，除非是不可抗拒原因，否则不允许退款<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/JdfOi" style="color: red;">https://mega-file.org/JdfOi</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
